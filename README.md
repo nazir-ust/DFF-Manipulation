@@ -1,6 +1,8 @@
 # DFF-Manipulation
 Dynamic Flex-and-Flip Manipulation of Deformable Linear Objects
 
+![figure1](media/fig1)
+
 
 ## Overview
 This repository presents the implementation of flex-and-flip
@@ -14,11 +16,10 @@ Thus, the repository will contain:
 Here we assume that an AprilTag is printed on the edge of the page strip to know its position. Of course, this position can be hardcoded.
 Modeling is carried out in `MATLAB`, whereas the actual implementation is in Python. 
 
-The following figures show the process of our flex-and-flip manipulation and how it is applied for a page turning task.
+The following figure shows the process of our flex-and-flip manipulation. The top figure shows when it is applied for a page turning task.
 
 ![figure2](media/fig2)
 
-![figure1](media/fig1)
 
 ## Usage
 Here we expalin different elements of our pipeline.
