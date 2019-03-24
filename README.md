@@ -33,7 +33,4 @@ The directory `/modeling` contains 1) a `MATLAB` function to generate minimum be
 
 Knowledge of variation of bending energy and the minimum coefficient of friction can help in planning the path of contact \#2 such as shown in the following figure.
 
-
-<p align="center">
-  <img width="460" height="300" src="media/fig8">
-</p>
+![figure8](media/fig8)
