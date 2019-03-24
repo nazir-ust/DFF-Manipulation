@@ -15,13 +15,14 @@ Here we assume that an AprilTag is printed on the edge of the page strip to know
 
 The following figures show the process of our flex-and-flip manipulation and how it is applied for a page turning task.
 
-![text](media/fig2.png)
+![figure2](media/fig2)
 
-![text](media/fig1)
+![figure1](media/fig1)
 
 ## Usage
 Here we expalin different elements of our pipeline.
 
-### Modeling of Linear Deformable Object
+### Modeling and Manipulating a Linear Deformable Object
+The folder `modeling` 
 
 
