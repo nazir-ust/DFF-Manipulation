@@ -16,7 +16,7 @@ Thus, the repository will contain:
 Here we assume that an AprilTag is printed on the edge of the page strip to know its position. Of course, this position can be hardcoded.
 Modeling is carried out in `MATLAB`, whereas the actual implementation is in Python. 
 
-The following figure shows the process of our flex-and-flip manipulation. The top figure shows when it is applied for a page turning task.
+The following figure shows the process of our flex-and-flip manipulation. The top figure shows when this technique is applied to a page turning task using a two fingered soft robotic hand.
 
 ![figure2](media/fig2)
 
@@ -33,4 +33,7 @@ The directory `/modeling` contains 1) a `MATLAB` function to generate minimum be
 
 Knowledge of variation of bending energy and the minimum coefficient of friction can help in planning the path of contact \#2 such as shown in the following figure.
 
-![figure](media/fig8)
+
+<p align="center">
+  <img width="460" height="300" src="media/fig8">
+</p>
