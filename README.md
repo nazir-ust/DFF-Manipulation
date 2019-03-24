@@ -17,7 +17,7 @@ The following figures show the process of our flex-and-flip manipulation and how
 
 ![figure2](media/fig2)
 
-![figure1](media/fig1)
+![figure1](media/fig1 | width=100)
 
 ## Usage
 Here we expalin different elements of our pipeline.
